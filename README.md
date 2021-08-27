@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Code2dpy
-- 👀 I’m interested in coding and learning new programming languages
-- 🌱 I’m currently learning `Python`,`JavaScript` and `Java`
+Hi, I’m @Code2dpy
+I’m interested in coding and learning new programming languages
+I’m currently learning `Python`,`JavaScript` and `Java`
 
 
 <!---
