@@ -1,8 +1,10 @@
-Hi, I’m @Code2dpy
+Hi, we are @Code2dpy
 
-I’m interested in coding and learning new programming languages
+We are two brothers who love to code.
 
-I’m currently learning `Python`,`JavaScript` and `Java`
+We're interested in  learning new programming languages
+
+We're currently learning `Python`,`JavaScript` and `Java`
 
 
 <!---
